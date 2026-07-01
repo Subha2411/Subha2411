@@ -3,7 +3,7 @@
 
 I don’t just learn tech. I use it to build products that solve problems I’ve personally felt.
 
-Currently exploring **Vibe coding, product building, Entrepreneurship** while pursuing Computer Science.
+Currently exploring **product building, Vibe coding, Entrepreneurship** while pursuing Computer Science.
 
 
 ## ✨ **About Me**
