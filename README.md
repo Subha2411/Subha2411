@@ -25,7 +25,7 @@ From tackling self-doubt to rethinking how we use tabs or approach mental health
 
 - Captures your small wins
 - Built from a deeply personal problem  
-- **9+ users** after launch  
+- **10+ users** after launch  
 - **7+ user interviews** conducted  
 
 --> This is where I learned how to **ship**, not just build*
